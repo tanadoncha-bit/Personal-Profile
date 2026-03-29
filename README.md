@@ -64,9 +64,7 @@
   <tr>
     <td align="center" width="50%">
       <b>Certificate 1</b><br><br>
-      <img src="./certificates/certificate-1.png" alt="Certificate 1" width="100%">
-      <br>
-      <a href="./certificates/certificate-1.pdf">📄 เปิด PDF</a>
+      <img src="./certificates/Certificate.png" alt="Certificate 1" width="100%">
     </td>
   </tr>
 </table>
