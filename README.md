@@ -1,6 +1,5 @@
 # Personal Portfolio — Network & Systems 2025–2026
 
-> คอร์สเกี่ยวกับระบบเครือข่าย | **Topic: Intergalactic Communications**
 
 ---
 
