@@ -31,7 +31,7 @@
 |---|----------|--------------|
 | LAB 1 | Lab Report 1 | [🔗 View](./labs/Lab1_2.pdf) |
 | LAB 2 | Lab Report 2 | [🔗 View](./labs/Lab2-Group1_2.pdf) |
-| LAB 3 | Lab Report 3 | [🔗 View](./labs/Lab3 _MIME File Transfer over Router-on-a-Stick with Wireshark Analysis_2.pdf) |
+| LAB 3 | Lab Report 3 | [🔗 View](./labs/Lab2-Group1_2.pdf) |
 | LAB 4 | Lab Report 4 | [🔗 View](./labs/lab4/) |
 | LAB 5 | Lab Report 5 | [🔗 View](./labs/lab5/) |
 | LAB 6 | Lab Report 6 | [🔗 View](./labs/lab6/) |
