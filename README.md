@@ -7,10 +7,10 @@
 
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
-| 01 | Essay Link | [View](./assignments/Assignments1.pdf) |
-| 02 | Topology | [View](./assignments/Assignments2.pdf) |
-| 03 | Not_Simple | [View](./assignments/Assignments3.pdf) |
-| 04 | TCP-UDP | [View](./assignments/Assignments4.pdf) |
+| 01 | Essay Link | [View](./assignments/Assignment1.pdf) |
+| 02 | Topology | [View](./assignments/Assignment2.pdf) |
+| 03 | Not_Simple | [View](./assignments/Assignment3.pdf) |
+| 04 | TCP-UDP | [View](./assignments/Assignment4.pdf) |
 | 05 | New Network | [View](./assignments/New_Network.pdf) |
 
 ---
