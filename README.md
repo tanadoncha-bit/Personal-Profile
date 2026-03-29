@@ -29,7 +29,7 @@
 
 | # | ชื่อ Lab | ไฟล์ / ลิงก์ |
 |---|----------|--------------|
-| LAB 1 | Lab Report 1 | [🔗 ดูงาน](./labs/Lab1_2/) |
+| LAB 1 | Lab Report 1 | [🔗 View](./labs/Lab1_2.pdf) |
 | LAB 2 | Lab Report 2 | [🔗 ดูงาน](./labs/lab2/) |
 | LAB 3 | Lab Report 3 | [🔗 ดูงาน](./labs/lab3/) |
 | LAB 4 | Lab Report 4 | [🔗 ดูงาน](./labs/lab4/) |
