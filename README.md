@@ -63,7 +63,6 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <b>Certificate 1</b><br><br>
       <img src="./certificates/Certificate.jpg" alt="Certificate 1" width="100%">
     </td>
   </tr>
