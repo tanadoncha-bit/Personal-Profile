@@ -59,13 +59,17 @@
 
 ---
 
-## Certificates
-
-| ชื่อ Certificate | ผู้ออก | ไฟล์ |
-|-----------------|--------|------|
-| *(เพิ่มชื่อ certificate)* | *(ผู้ออก)* | [📄 ดู Certificate](./certificates/) |
-
-> **วิธีเพิ่ม Certificate:** อัปโหลดไฟล์ภาพหรือ PDF ลงในโฟลเดอร์ `certificates/` แล้วแก้ลิงก์ในตารางด้านบน
+## Certificate Gallery
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Certificate 1</b><br><br>
+      <img src="./certificates/certificate-1.png" alt="Certificate 1" width="100%">
+      <br>
+      <a href="./certificates/certificate-1.pdf">📄 เปิด PDF</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
