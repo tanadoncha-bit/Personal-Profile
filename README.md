@@ -7,11 +7,11 @@
 
 | # | ชื่องาน| ไฟล์ / ลิงก์ |
 |---|---------|--------------|
-| 01 | Essay Link | [🔗 View](./assignments/Assignments_1.pdf) |
-| 02 | Topology | [🔗 View](./assignments/02-topology/) |
-| 03 | Not_Simple | [🔗 View](./assignments/03-not-simple/) |
-| 04 | TCP-UDP | [🔗 View](./assignments/04-tcp-udp/) |
-| 05 | New Network | [🔗 View](./assignments/05-new-network/) |
+| 01 | Essay Link | [View](./assignments/Assignments1.pdf) |
+| 02 | Topology | [View](./assignments/Assignments2.pdf) |
+| 03 | Not_Simple | [View](./assignments/Assignments3.pdf) |
+| 04 | TCP-UDP | [View](./assignments/Assignments4.pdf) |
+| 05 | New Network | [View](./assignments/New_Network.pdf) |
 
 ---
 
@@ -19,13 +19,13 @@
 
 | # | ชื่อ Lab | ไฟล์ / ลิงก์ |
 |---|----------|--------------|
-| LAB 1 | Lab Report 1 | [🔗 View](./labs/Lab1.pdf) |
-| LAB 2 | Lab Report 2 | [🔗 View](./labs/Lab2.pdf) |
-| LAB 3 | Lab Report 3 | [🔗 View](./labs/Lab3.pdf) |
-| LAB 4 | Lab Report 4 | [🔗 View](./labs/lab4.pdf) |
-| LAB 5 | Lab Report 5 | [🔗 View](./labs/lab5.pdf) |
-| LAB 6 | Lab Report 6 | [🔗 View](./labs/lab6.pdf) |
-| LAB 7 | Lab Report 7 | [🔗 View](./labs/lab7.pdf) |
+| LAB 1 | Lab Report 1 | [View](./labs/Lab1.pdf) |
+| LAB 2 | Lab Report 2 | [View](./labs/Lab2.pdf) |
+| LAB 3 | Lab Report 3 | [View](./labs/Lab3.pdf) |
+| LAB 4 | Lab Report 4 | [View](./labs/lab4.pdf) |
+| LAB 5 | Lab Report 5 | [View](./labs/lab5.pdf) |
+| LAB 6 | Lab Report 6 | [View](./labs/lab6.pdf) |
+| LAB 7 | Lab Report 7 | [View](./labs/lab7.pdf) |
 
 ---
 
@@ -33,7 +33,7 @@
 
 | ชื่อ | ไฟล์ / ลิงก์ |
 |------|--------------|
-| Final Project Artifacts | [🔗 View](https://github.com/tanadoncha-bit/The-Living-Existence-Network-LEN-Architecture) |
+| Final Project Artifacts | [View](https://github.com/tanadoncha-bit/The-Living-Existence-Network-LEN-Architecture) |
 
 ---
 
