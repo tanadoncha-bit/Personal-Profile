@@ -22,10 +22,10 @@
 | LAB 1 | Lab Report 1 | [View](./labs/Lab1.pdf) |
 | LAB 2 | Lab Report 2 | [View](./labs/Lab2.pdf) |
 | LAB 3 | Lab Report 3 | [View](./labs/Lab3.pdf) |
-| LAB 4 | Lab Report 4 | [View](./labs/lab4.pdf) |
-| LAB 5 | Lab Report 5 | [View](./labs/lab5.pdf) |
-| LAB 6 | Lab Report 6 | [View](./labs/lab6.pdf) |
-| LAB 7 | Lab Report 7 | [View](./labs/lab7.pdf) |
+| LAB 4 | Lab Report 4 | [View](./labs/Lab4.pdf) |
+| LAB 5 | Lab Report 5 | [View](./labs/Lab5.pdf) |
+| LAB 6 | Lab Report 6 | [View](./labs/Lab6.pdf) |
+| LAB 7 | Lab Report 7 | [View](./labs/Lab7.pdf) |
 
 ---
 
