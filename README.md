@@ -29,6 +29,19 @@
 
 ---
 
+## Packet Tracer Files (.pkt)
+
+| ชื่อไฟล์ | เกี่ยวกับ | ไฟล์ / ลิงก์ |
+|---------|----------|-----------|
+| lab1.pkt | Lab 1 | [View](./packet-tracer/lab1.pkt) |
+| lab2.pkt | Lab 2 | [View](./packet-tracer/lab2.pkt) |
+| lab3.pkt | Lab 3 | [View](./packet-tracer/lab3.pkt) |
+| lab4.pkt | Lab 4 | [View](./packet-tracer/lab4.pkt) |
+| lab5.pkt | Lab 5 | [View](./packet-tracer/lab5.pkt) |
+| lab6.pkt | Lab 6 | [View](./packet-tracer/lab6.pkt) |
+
+---
+
 ## Final Project
 
 | ชื่อ | ไฟล์ / ลิงก์ |
